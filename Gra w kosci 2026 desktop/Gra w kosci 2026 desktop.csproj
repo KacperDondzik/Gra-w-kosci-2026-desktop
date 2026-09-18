@@ -9,4 +9,24 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="kosc0.png" />
+    <None Remove="kosc1.png" />
+    <None Remove="kosc2.png" />
+    <None Remove="kosc3.png" />
+    <None Remove="kosc4.png" />
+    <None Remove="kosc5.png" />
+    <None Remove="kosc6.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="kosc0.png" />
+    <Resource Include="kosc1.png" />
+    <Resource Include="kosc2.png" />
+    <Resource Include="kosc3.png" />
+    <Resource Include="kosc4.png" />
+    <Resource Include="kosc5.png" />
+    <Resource Include="kosc6.png" />
+  </ItemGroup>
+
 </Project>
